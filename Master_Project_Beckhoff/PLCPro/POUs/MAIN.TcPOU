@@ -8,12 +8,13 @@ END_VAR
     <Implementation>
       <ST><![CDATA[//This is my 
 //This is my 2nd
-//This is my 3rd]]></ST>
+//This is my 3rd
+//This is my 4th]]></ST>
     </Implementation>
     <LineIds Name="MAIN">
       <LineId Id="2" Count="0" />
       <LineId Id="6" Count="0" />
-      <LineId Id="10" Count="0" />
+      <LineId Id="10" Count="1" />
     </LineIds>
   </POU>
 </TcPlcObject>
