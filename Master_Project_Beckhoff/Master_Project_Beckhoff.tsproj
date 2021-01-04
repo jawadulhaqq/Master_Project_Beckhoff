@@ -9,7 +9,18 @@
 			</Tasks>
 		</System>
 		<Plc>
-			<Project File="PLCPro.xti"/>
+			<Project GUID="{80653C24-2893-421F-8FD7-4E8AC43F4DA7}" Name="PLCPro" PrjFilePath="PLCPro\PLCPro.plcproj" TmcFilePath="PLCPro\PLCPro.tmc" ReloadTmc="true" AmsPort="851" FileArchiveSettings="#x000e" SymbolicMapping="true">
+				<Instance Id="#x08502000" TcSmClass="TComPlcObjDef" KeepUnrestoredLinks="2">
+					<Name>PLCPro Instance</Name>
+					<CLSID ClassFactory="TcPlc30">{08500001-0000-0000-F000-000000000064}</CLSID>
+					<Contexts>
+						<Context>
+							<Id>1</Id>
+							<Name>Default</Name>
+						</Context>
+					</Contexts>
+				</Instance>
+			</Project>
 		</Plc>
 	</Project>
 </TcSmProject>
