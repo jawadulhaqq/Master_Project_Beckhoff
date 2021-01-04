@@ -8,3 +8,7 @@ Master_Project_Beckhoff.project.~u
 Master_Project_Beckhoff.sln
 
 Master_Project_Beckhoff/_Config/PLC/PLCPro.xti.bak
+
+Master_Project_Beckhoff/_Config/PLC/PLCPro.xti
+
+Master_Project_Beckhoff/Master_Project_Beckhoff.tsproj
