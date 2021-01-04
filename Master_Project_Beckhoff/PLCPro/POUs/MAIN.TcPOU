@@ -7,11 +7,13 @@ END_VAR
 ]]></Declaration>
     <Implementation>
       <ST><![CDATA[//This is my 
-//This is my 2nd]]></ST>
+//This is my 2nd
+//This is my 3rd]]></ST>
     </Implementation>
     <LineIds Name="MAIN">
       <LineId Id="2" Count="0" />
       <LineId Id="6" Count="0" />
+      <LineId Id="10" Count="0" />
     </LineIds>
   </POU>
 </TcPlcObject>
